@@ -1,4 +1,4 @@
-# OC-EFI-for-Acer-aspire-3-314-22
+# Opencore-EFI-for-Acer-aspire-3-314-22
 Tried on macOS 12 and 13
 # Specs😍
 - **APU** : AMD R5 3500U Vega 8
