@@ -26,7 +26,7 @@ Tried on macOS 12 and 13
 - HDMI audio
 
 # How to
-You just need to add your own SMBIOS 
+You just need to add your own SMBIOS and turn secure boot off
 
 
 
