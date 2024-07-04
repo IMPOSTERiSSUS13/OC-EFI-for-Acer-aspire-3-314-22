@@ -1,5 +1,5 @@
 # Opencore-EFI-for-Acer-aspire-3-314-22 for macOS 13
-Tried on macOS 12 and 13
+Should worked on macOS 11 and above
 # Specs
 - **APU** : AMD R5 3500U Vega 8
 - **Ram** : 4GB(OnBoard) + 4GB 2400Mhz DDR4
