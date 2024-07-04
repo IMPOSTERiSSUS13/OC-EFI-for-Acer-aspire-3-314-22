@@ -10,7 +10,7 @@ Tried on macOS 12 and 13
 - **LAN** : Realtek 8168
 - **Keyboard/Touchpad** : I2C Keyboard and I2C Synaptics Touchpad
 
-# What's Working
+# What's Working?
 - Graphics Acceleration
 - Speaker/Headphone Jack
 - HDMI
@@ -21,8 +21,8 @@ Tried on macOS 12 and 13
 - Handoff
 - Battery Percentage
 
-# What's Not Working
-- Chrome based app
+# What's Not Working?
+- Chrome based apps
 - HDMI audio
 - Airdrop
 # Haven't tested yet
